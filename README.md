@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doowilliams
 - 👀 I’m interested in data science, artificial intelligence, web developer
-- 🌱 I’m currently learning python HTML CSS JavaScript
+- 🌱 I’m currently learning python data science HTML CSS JavaScript
 - 💞️ I’m looking to collaborate on data Science artificial intelligent design
 - 📫 How to reach me on my email dooyumwilliams@gmail.com, WhatsApp number 08057965192
 
